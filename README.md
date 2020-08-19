@@ -1,1 +1,4 @@
-# README-Generator
+# README.js
+Creating this application has been and exciting challenge as we dive deeper into understanding back end development. For this application we were tasked with generating a README.md through the use of prompts from node.js. i have successfully gotten my prompted question to render inside of node.js and have over came a previous problem by getting it to generate in a README.md format. 
+
+however i have run into a problem uploading the video of me demonstrating the use of the application but was getting an error when i was trying to push it to my Github Repo. i even contacte askedBCS for help but was of no help unfortuntiatly. so in place i have uploaded a screen shot of the application
